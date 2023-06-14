@@ -1,5 +1,19 @@
 # Why I didn't like MECOP for my Circumstances (Opinion Piece)
 
+This opinion piece discusses [MECOP](https://www.mecopinc.org/), a co-op program for Oregon State University.
+
+This was my experience in the spring 2022 / fall 2022 internship season, may not be up to date in future.
+
+Backup: https://rentry.org/mecop_interview
+
+DISCLAIMER: **I (Jeff) have severe ADHD which is part of what makes me execessively blunt or too opionated sounding due to emotional disregulation so please do not take this too seriously.**
+
+This is an editorial, not a guide!
+
+Any factual mistakes are probably my fault. Feel free to PR to correct objectively wrong statements.
+
+All opinions are my own.
+
 Table of Contents
 
 Github README Table of Contents Generator - https://jsfiddle.net/remarkablemark/o0mja3hf/
@@ -19,16 +33,6 @@ Github README Table of Contents Generator - https://jsfiddle.net/remarkablemark/
   - [TL;DR](#tldr)
     - [Who MECOP Is For](#who-mecop-is-for)
     - [Who MECOP Is Not For](#who-mecop-is-not-for)
-
-This was my experience in the spring 2022 / fall 2022 internship season, may not be up to date in future.
-
-Backup: https://rentry.org/mecop_interview
-
-DISCLAIMER: **I (Jeff) have severe ADHD which is part of what makes me execessively blunt or too opionated sounding due to emotional disregulation so please do not take this too seriously.**
-
-This is an editorial, not a guide!
-
-Any factual mistakes are probably my fault. Feel free to PR to correct objectively wrong statements.
 
 ## Clarification of Terminology
 - For below, "sophmore" and "junior" etc correspond to the typical 4-year student (freshman > sophomore > junior > senior)
