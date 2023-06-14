@@ -1,6 +1,6 @@
 # Why I didn't like MECOP for my Circumstances (Opinion Piece)
 
-This opinion piece discusses [MECOP](https://www.mecopinc.org/), a co-op program for Oregon State University.
+This opinion piece discusses [MECOP](https://www.mecopinc.org/), a co-op program for some universities in Oregon, including Oregon State University.
 
 This was my experience in the spring 2022 / fall 2022 internship season, may not be up to date in future.
 
