@@ -1,4 +1,24 @@
-# Why I didn't like MECOP for my circumstances
+# Why I didn't like MECOP for my Circumstances (Opinion Piece)
+
+Table of Contents
+
+Github README Table of Contents Generator - https://jsfiddle.net/remarkablemark/o0mja3hf/
+
+  - [Clarification of Terminology](#clarification-of-terminology)
+  - [Overall Timeline](#overall-timeline)
+    - [Application](#application)
+    - [Caution - Senior Capstone / Graduation Timeline](#caution---senior-capstone--graduation-timeline)
+    - [Round 1 Interview](#round-1-interview)
+    - [Between Round 1 and Round 2](#between-round-1-and-round-2)
+    - [Round 2 Interview](#round-2-interview)
+    - [First Internship](#first-internship)
+    - [Between First and Second Internship](#between-first-and-second-internship)
+    - [Round 2 Interview MK 2](#round-2-interview-mk-2)
+    - [Second Internship](#second-internship)
+    - [End](#end)
+  - [TL;DR](#tldr)
+    - [Who MECOP Is For](#who-mecop-is-for)
+    - [Who MECOP Is Not For](#who-mecop-is-not-for)
 
 This was my experience in the spring 2022 / fall 2022 internship season, may not be up to date in future.
 
