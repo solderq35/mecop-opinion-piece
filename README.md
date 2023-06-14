@@ -37,9 +37,6 @@ Github README Table of Contents Generator - https://jsfiddle.net/remarkablemark/
 - A "Fifth Year" has been added when applicable, in this case (freshman > sophomore > junior > senior > Fifth Year)
 - For those on a non-typical graduation timeline,
 just adjust based on graduation year
-- If you are one year away from graduating you are a junior, etc.
-- Like let's say it is spring 2023 and you graduate fall 2024, you are still a junior,
-and senior next year.
 
 ## Overall Timeline
 
