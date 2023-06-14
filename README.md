@@ -12,7 +12,7 @@ Any factual mistakes are probably my fault. Feel free to PR to correct objective
 
 All opinions are my own.
 
-Table of Contents
+## Table of Contents
 
 Github README Table of Contents Generator - https://jsfiddle.net/remarkablemark/o0mja3hf/
 
