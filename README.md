@@ -4,8 +4,6 @@ This opinion piece discusses [MECOP](https://www.mecopinc.org/), a co-op program
 
 This was my experience in the spring 2022 / fall 2022 internship season, may not be up to date in future.
 
-Backup: https://rentry.org/mecop_interview
-
 DISCLAIMER: **I (Jeff) have severe ADHD which is part of what makes me execessively blunt or too opionated sounding due to emotional disregulation so please do not take this too seriously.**
 
 This is an editorial, not a guide!
