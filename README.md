@@ -111,7 +111,9 @@ just adjust based on graduation year
   - Slightly better than a typical job fair in the sense that there are many current MECOP interns at the fair so you can hear about the internship experiences straight from the students
 - Around **mid December** waitlist students get kicked out (that's me!)
   - DO NOT trust MECOP HR people who will say stuff like "last year everyone gets of waitlist", etc. The job market is unstable year to year
-- VERY important you stress you are willing to commit to two 6 month internships and potentially delay graduation (even if you don't actually plan to). It's kinda bullshit how MECOP tries to get this kind of commitment out of you but just lie
+- VERY important you stress you are willing to commit to two 6 month internships and potentially delay graduation (even if you don't actually plan to).
+  - To be fair, MECOP participant companies are making a big commitment to take a lot of interns via like 2 10-minute behavioral interviews, so the least you can do is say you will stick around for 2 internships
+  - They want a big pool of "generally ok" interns in exchange for lower pay
 
 ### Round 2 Interview
 - Well I never did this round so this is second hand
@@ -120,7 +122,9 @@ just adjust based on graduation year
 - You are auctioned off to companies Football Draft style. 
   - **Do not expect a company you vibe with in the second round interview to necessarily pick you, even if they like you, they may lose the lottery when trying to draft you**
 - I believe they at least somewhat more care about actual software projects at this stage but I'm not sure. Prep STAR as always
-- VERY important you stress you are willing to commit to two 6 month internships and potentially delay graduation (even if you don't actually plan to). It's kinda bullshit how MECOP tries to get this kind of commitment out of you but just lie
+- VERY important you stress you are willing to commit to two 6 month internships and potentially delay graduation (even if you don't actually plan to).
+  - To be fair, MECOP participant companies are making a big commitment to take a lot of interns via like 2 10-minute behavioral interviews, so the least you can do is say you will stick around for 2 internships
+  - They want a big pool of "generally ok" interns in exchange for lower pay
 
 ### First Internship
 - First MECOP internship is **March of Junior Year to August? of Junior Year**
